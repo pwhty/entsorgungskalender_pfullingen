@@ -47,5 +47,6 @@ Pull Requests sind **ausdrücklich willkommen**, insbesondere für:
 ### Namenskonvention für Kalenderdateien
 ```text
 Entsorgungskalender_Pfullingen_BEZIRK_JAHR.ics
+```
 
-Beipiel: Entsorgungskalender_Pfullingen_IVa_2025.ics
+**Beispiel**: Entsorgungskalender_Pfullingen_IVa_2025.ics
