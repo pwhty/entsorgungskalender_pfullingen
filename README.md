@@ -57,3 +57,22 @@ Entsorgungskalender_Pfullingen_<BEZIRK>_<JAHR>_<FREQ>.ics
 Beispiele:
 - Entsorgungskalender_Pfullingen_IVa_2025_2w.ics  (2‑wöchiger Restmüll)
 - Entsorgungskalender_Pfullingen_IVa_2025_4w.ics  (4‑wöchiger Restmüll)
+
+## 🗂️ Projektstruktur
+
+/
+├─ index.html        # Web-Oberfläche
+├─ app.js            # Logik
+├─ lookup.json       # Straße → Bezirk
+├─ kalender/         # .ics-Dateien
+└─ README.md
+
+## 🚫 Haftungsausschluss
+
+Die Nutzung erfolgt **auf eigene Verantwortung**.
+Für verpasste oder falsch angezeigte Abholtermine wird keine Haftung übernommen.
+
+## 📄 Lizenz
+
+Dieses Projekt steht unter einer freien Lizenz (s. LICENSE).
+Die Kalenderdateien dürfen **privat genutzt und weitergegeben**, jedoch **nicht als offizielle Quelle ausgegeben** werden.
