@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Entsorgungskalender Pfullingen</title>
+  <style>
+    body { font-family: sans-serif; max-width: 500px; margin: 40px auto; }
+    label { display: block; margin-top: 15px; }
+    button { margin-top: 20px; padding: 8px 14px; }
+    .error { color: red; margin-top: 15px; }
+    .result { margin-top: 20px; font-size: 1.1em; }
+  </style>
+</head>
+<body>
+
+<h1>Entsorgungskalender</h1>
+
+<label>
+  Straße:
+  <input id="street" type="text" placeholder="z. B. Wilhelmstraße">
+</label>
+
+<label>
+  Jahr:
+  <input id="year" type="number" value="2025">
+</label>
+
+<label>
+  Abholung Restmüll:
+  <select id="frequencySelect">
+    <option value="2w">2-wöchig</option>
+    <option value="4w">4-wöchig</option>
+  </select>
+</label>
+
+<button onclick="findCalendar()">Kalender anzeigen</button>
+
+<div id="output"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

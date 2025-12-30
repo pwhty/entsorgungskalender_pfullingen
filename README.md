@@ -45,8 +45,15 @@ Pull Requests sind **ausdrücklich willkommen**, insbesondere für:
 - Verbesserungen an der Lookup-Datei (Straße → Bezirk)
 
 ### Namenskonvention für Kalenderdateien
+Die App unterstützt unterschiedliche Dateien für 2‑wöchige und 4‑wöchige Restmüll‑Abholung. Lege beim Generieren beider Varianten jeweils getrennte `.ics`‑Dateien an.
+
+Format:
 ```text
-Entsorgungskalender_Pfullingen_BEZIRK_JAHR.ics
+Entsorgungskalender_Pfullingen_<BEZIRK>_<JAHR>_<FREQ>.ics
 ```
 
-**Beispiel**: Entsorgungskalender_Pfullingen_IVa_2025.ics
+- `<FREQ>` ist `2w` für 2‑wöchig oder `4w` für 4‑wöchig.
+
+Beispiele:
+- Entsorgungskalender_Pfullingen_IVa_2025_2w.ics  (2‑wöchiger Restmüll)
+- Entsorgungskalender_Pfullingen_IVa_2025_4w.ics  (4‑wöchiger Restmüll)
