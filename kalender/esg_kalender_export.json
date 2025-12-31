@@ -1,0 +1,4631 @@
+{
+  "exportedAt": "2025-12-31T00:55:09.604Z",
+  "payload": [
+    {
+      "name": "Entsorgungskalender_Pfullingen_IVa_2026_2w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-28",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-28",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (2-wöch)",
+          "startDate": "2026-01-14",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-09",
+              "replaced": "2026-04-08"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-14",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-09",
+              "replaced": "2026-04-08"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-08",
+              "replacedBy": "2026-04-09"
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-24",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-02",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-02",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IVa_2026_4w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-28",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-28",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (4-wöch)",
+          "startDate": "2026-01-14",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-09",
+              "replaced": "2026-04-08"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-08",
+              "replacedBy": "2026-04-09"
+            },
+            {
+              "date": "2026-05-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-16",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-14",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-09",
+              "replaced": "2026-04-08"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-08",
+              "replacedBy": "2026-04-09"
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-24",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-02",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-02",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IVb_2026_2w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            },
+            {
+              "date": "2027-01-02",
+              "replaced": "2026-12-31"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": "2027-01-02"
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (2-wöch)",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            },
+            {
+              "date": "2026-04-10",
+              "replaced": "2026-04-09"
+            },
+            {
+              "date": "2026-06-05",
+              "replaced": "2026-06-04"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-09",
+              "replacedBy": "2026-04-10"
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-04",
+              "replacedBy": "2026-06-05"
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            },
+            {
+              "date": "2026-04-10",
+              "replaced": "2026-04-09"
+            },
+            {
+              "date": "2026-06-05",
+              "replaced": "2026-06-04"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-09",
+              "replacedBy": "2026-04-10"
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-04",
+              "replacedBy": "2026-06-05"
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-25",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-03",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-03",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IVb_2026_4w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            },
+            {
+              "date": "2027-01-02",
+              "replaced": "2026-12-31"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": "2027-01-02"
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (4-wöch)",
+          "startDate": "2026-01-15",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-10",
+              "replaced": "2026-04-09"
+            },
+            {
+              "date": "2026-06-05",
+              "replaced": "2026-06-04"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-09",
+              "replacedBy": "2026-04-10"
+            },
+            {
+              "date": "2026-05-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-04",
+              "replacedBy": "2026-06-05"
+            },
+            {
+              "date": "2026-07-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-17",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            },
+            {
+              "date": "2026-04-10",
+              "replaced": "2026-04-09"
+            },
+            {
+              "date": "2026-06-05",
+              "replaced": "2026-06-04"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-09",
+              "replacedBy": "2026-04-10"
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-04",
+              "replacedBy": "2026-06-05"
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-25",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-03",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-03",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIIa_2026_2w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-26",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-28",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-26",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-28",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (2-wöch)",
+          "startDate": "2026-01-12",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-07",
+              "replaced": "2026-04-06"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-06",
+              "replacedBy": "2026-04-07"
+            },
+            {
+              "date": "2026-04-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-28",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-12",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-07",
+              "replaced": "2026-04-06"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-06",
+              "replacedBy": "2026-04-07"
+            },
+            {
+              "date": "2026-04-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-28",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-22",
+          "repeatWeeks": 2,
+          "endDate": "2026-08-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-31",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIIa_2026_4w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-26",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-28",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-26",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-28",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (4-wöch)",
+          "startDate": "2026-01-12",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-07",
+              "replaced": "2026-04-06"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-06",
+              "replacedBy": "2026-04-07"
+            },
+            {
+              "date": "2026-05-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-14",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-26",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-07",
+              "replaced": "2026-04-06"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-06",
+              "replacedBy": "2026-04-07"
+            },
+            {
+              "date": "2026-04-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-28",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-22",
+          "repeatWeeks": 2,
+          "endDate": "2026-08-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-31",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIIb_2026_2w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-27",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-29",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-27",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-29",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (2-wöch)",
+          "startDate": "2026-01-13",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-08",
+              "replaced": "2026-04-07"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-07",
+              "replacedBy": "2026-04-08"
+            },
+            {
+              "date": "2026-04-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-29",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-13",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-08",
+              "replaced": "2026-04-07"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-07",
+              "replacedBy": "2026-04-08"
+            },
+            {
+              "date": "2026-04-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-29",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-23",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-01",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-01",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIIb_2026_4w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-27",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-29",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-27",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-29",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (4-wöch)",
+          "startDate": "2026-01-13",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-08",
+              "replaced": "2026-04-07"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-07",
+              "replacedBy": "2026-04-08"
+            },
+            {
+              "date": "2026-05-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-15",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-13",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-04-08",
+              "replaced": "2026-04-07"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-01-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-07",
+              "replacedBy": "2026-04-08"
+            },
+            {
+              "date": "2026-04-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-29",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-23",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-01",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-01",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIa_2026_2w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-28",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-21",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-12-22",
+              "replaced": "2026-12-23"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-23",
+              "replacedBy": "2026-12-22"
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (2-wöch)",
+          "startDate": "2026-01-07",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-08",
+              "replaced": "2026-01-07"
+            },
+            {
+              "date": "2026-05-28",
+              "replaced": "2026-05-27"
+            },
+            {
+              "date": "2026-12-22",
+              "replaced": "2026-12-23"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-07",
+              "replacedBy": "2026-01-08"
+            },
+            {
+              "date": "2026-01-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-27",
+              "replacedBy": "2026-05-28"
+            },
+            {
+              "date": "2026-06-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-23",
+              "replacedBy": "2026-12-22"
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-07",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-08",
+              "replaced": "2026-01-07"
+            },
+            {
+              "date": "2026-05-28",
+              "replaced": "2026-05-27"
+            },
+            {
+              "date": "2026-12-22",
+              "replaced": "2026-12-23"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-07",
+              "replacedBy": "2026-01-08"
+            },
+            {
+              "date": "2026-01-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-27",
+              "replacedBy": "2026-05-28"
+            },
+            {
+              "date": "2026-06-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-23",
+              "replacedBy": "2026-12-22"
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-17",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-03",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-26",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIa_2026_4w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-28",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-01-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-07",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-30",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-21",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-12-22",
+              "replaced": "2026-12-23"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-23",
+              "replacedBy": "2026-12-22"
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (4-wöch)",
+          "startDate": "2026-01-07",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-08",
+              "replaced": "2026-01-07"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-07",
+              "replacedBy": "2026-01-08"
+            },
+            {
+              "date": "2026-02-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-27",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-09",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-07",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-08",
+              "replaced": "2026-01-07"
+            },
+            {
+              "date": "2026-05-28",
+              "replaced": "2026-05-27"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-07",
+              "replacedBy": "2026-01-08"
+            },
+            {
+              "date": "2026-01-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-04",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-27",
+              "replacedBy": "2026-05-28"
+            },
+            {
+              "date": "2026-06-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-24",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-14",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-28",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-23",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-17",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-03",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-26",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIb_2026_2w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-22",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-05-15",
+              "replaced": "2026-05-14"
+            },
+            {
+              "date": "2026-12-23",
+              "replaced": "2026-12-24"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-14",
+              "replacedBy": "2026-05-15"
+            },
+            {
+              "date": "2026-06-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-24",
+              "replacedBy": "2026-12-23"
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (2-wöch)",
+          "startDate": "2026-01-08",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-09",
+              "replaced": "2026-01-08"
+            },
+            {
+              "date": "2026-05-15",
+              "replaced": "2026-05-14"
+            },
+            {
+              "date": "2026-05-29",
+              "replaced": "2026-05-28"
+            },
+            {
+              "date": "2026-12-23",
+              "replaced": "2026-12-24"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-08",
+              "replacedBy": "2026-01-09"
+            },
+            {
+              "date": "2026-01-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-14",
+              "replacedBy": "2026-05-15"
+            },
+            {
+              "date": "2026-05-28",
+              "replacedBy": "2026-05-29"
+            },
+            {
+              "date": "2026-06-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-24",
+              "replacedBy": "2026-12-23"
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-08",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-09",
+              "replaced": "2026-01-08"
+            },
+            {
+              "date": "2026-05-15",
+              "replaced": "2026-05-14"
+            },
+            {
+              "date": "2026-05-29",
+              "replaced": "2026-05-28"
+            },
+            {
+              "date": "2026-12-23",
+              "replaced": "2026-12-24"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-08",
+              "replacedBy": "2026-01-09"
+            },
+            {
+              "date": "2026-01-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-14",
+              "replacedBy": "2026-05-15"
+            },
+            {
+              "date": "2026-05-28",
+              "replacedBy": "2026-05-29"
+            },
+            {
+              "date": "2026-06-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-24",
+              "replacedBy": "2026-12-23"
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-18",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-03",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-27",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entsorgungskalender_Pfullingen_IIb_2026_4w",
+      "categories": [
+        {
+          "name": "Gelber Sack",
+          "startDate": "2026-01-01",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-02",
+              "replaced": "2026-01-01"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-01",
+              "replacedBy": "2026-01-02"
+            },
+            {
+              "date": "2026-01-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-21",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-08",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-31",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Altpapier",
+          "startDate": "2026-01-22",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-05-15",
+              "replaced": "2026-05-14"
+            },
+            {
+              "date": "2026-12-23",
+              "replaced": "2026-12-24"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-14",
+              "replacedBy": "2026-05-15"
+            },
+            {
+              "date": "2026-06-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-24",
+              "replacedBy": "2026-12-23"
+            }
+          ]
+        },
+        {
+          "name": "Restmüll (4-wöch)",
+          "startDate": "2026-01-08",
+          "repeatWeeks": 4,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-09",
+              "replaced": "2026-01-08"
+            },
+            {
+              "date": "2026-05-29",
+              "replaced": "2026-05-28"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-08",
+              "replacedBy": "2026-01-09"
+            },
+            {
+              "date": "2026-02-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-28",
+              "replacedBy": "2026-05-29"
+            },
+            {
+              "date": "2026-06-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-10",
+              "replacedBy": null
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-01-08",
+          "repeatWeeks": 2,
+          "endDate": "2026-12-31",
+          "specials": [
+            {
+              "date": "2026-01-09",
+              "replaced": "2026-01-08"
+            },
+            {
+              "date": "2026-05-15",
+              "replaced": "2026-05-14"
+            },
+            {
+              "date": "2026-05-29",
+              "replaced": "2026-05-28"
+            },
+            {
+              "date": "2026-12-23",
+              "replaced": "2026-12-24"
+            }
+          ],
+          "series": [
+            {
+              "date": "2026-01-08",
+              "replacedBy": "2026-01-09"
+            },
+            {
+              "date": "2026-01-22",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-02-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-05",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-03-19",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-04-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-05-14",
+              "replacedBy": "2026-05-15"
+            },
+            {
+              "date": "2026-05-28",
+              "replacedBy": "2026-05-29"
+            },
+            {
+              "date": "2026-06-11",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-06-25",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-09",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-23",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-06",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-20",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-03",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-09-17",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-01",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-15",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-10-29",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-12",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-11-26",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-10",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-12-24",
+              "replacedBy": "2026-12-23"
+            }
+          ]
+        },
+        {
+          "name": "Biomüll",
+          "startDate": "2026-06-18",
+          "repeatWeeks": 2,
+          "endDate": "2026-09-03",
+          "specials": [],
+          "series": [
+            {
+              "date": "2026-06-18",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-02",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-16",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-07-30",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-13",
+              "replacedBy": null
+            },
+            {
+              "date": "2026-08-27",
+              "replacedBy": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
