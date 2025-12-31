@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Kalender-Generator</title>
+  <style>
+    body{font-family:sans-serif; max-width:1100px;margin:20px auto}
+    #gen-grid{display:flex;gap:20px}
+    #cal-list{width:300px;border:1px solid #ddd;padding:10px}
+    #cal-edit{flex:1;border:1px solid #ddd;padding:10px}
+    .cal-item{padding:6px;border-bottom:1px solid #f0f0f0;cursor:pointer}
+    .cal-item:hover{background:#fafafa}
+    .pill{display:inline-block;padding:4px 8px;background:#eef;border-radius:12px;margin:4px}
+    .category { display:flex; flex-direction:column; gap:8px; padding:8px 0; }
+    .category .controls { display:flex; gap:8px; align-items:center; flex-wrap:wrap }
+    label { display:block; }
+    input[type="date"], input[type="text"], input[type="number"], select { padding:6px; border:1px solid #ccc; border-radius:4px }
+    button { padding:6px 10px; border-radius:4px }
+    #calName { width: 600px; }
+  </style>
+</head>
+<body>
+  <h1>Kalender-Generator</h1>
+  <div id="gen-grid">
+    <div id="cal-list">
+      <button id="newCalBtn">Neuer Kalender</button>
+      <div id="calIoControls" style="margin-top:8px;margin-bottom:8px"></div>
+      <div id="calItems"></div>
+    </div>
+    <div id="cal-edit">
+      <div id="editEmpty">Wähle einen Kalender oder erstelle einen neuen.</div>
+      <div id="editArea" style="display:none">
+        <button id="backToList">← Zurück</button>
+        <h3>Editiere Kalender</h3>
+        <div id="calSummary" style="margin-bottom:8px;color:#333"></div>
+        <label>Name: <input id="calName"></label>
+        <div>
+          <h4>Kategorien</h4>
+          <div id="categories"></div>
+          <hr>
+          <h5>Neue Kategorie</h5>
+          <label>Name: <input id="newCatName"></label>
+          <label>Startdatum: <input id="newCatStart" type="date"></label>
+          <label>Wiederholrhythmus (Wochen, leer = einmalig): <input id="newCatRepeat" type="number" min="1"></label>
+          <label>Enddatum: <input id="newCatEnd" type="date"></label>
+          <button id="addCategoryBtn">Kategorie anlegen</button>
+        </div>
+        <hr>
+        <button id="saveCalBtn">Speichern</button>
+        <button id="recomputeCalBtn">Elemente neu berechnen</button>
+        <button id="downloadCalBtn">Als .ics herunterladen</button>
+        <button id="deleteCalBtn" style="float:right;color:#900">Löschen</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="generator.js"></script>
+</body>
+</html>

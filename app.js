@@ -4,6 +4,20 @@ fetch("lookup.json")
   .then(r => r.json())
   .then(data => lookup = data);
 
+// After lookup is loaded, fill the datalist for street autocomplete
+fetch("lookup.json")
+  .then(r => r.json())
+  .then(data => {
+    const dl = document.getElementById('streets');
+    if (!dl) return;
+    Object.keys(data).sort((a,b) => a.localeCompare(b, 'de')).forEach(s => {
+      const opt = document.createElement('option');
+      opt.value = s;
+      dl.appendChild(opt);
+    });
+  })
+  .catch(() => {});
+
 function findCalendar() {
   const streetInput = document.getElementById("street").value.trim();
   const year = document.getElementById("year").value.trim();

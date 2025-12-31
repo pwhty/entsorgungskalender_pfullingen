@@ -1,3 +1,5 @@
+TL;DR: Wer schnell an die .ics-Dateien kommen will: https://pwhty.github.io/entsorgungskalender_pfullingen/
+
 # Entsorgungskalender Pfullingen
 
 Diese kleine Web-App ermöglicht es, den passenden **Entsorgungskalender (ICS)** für eine Straße in Pfullingen auszuwählen und direkt herunterzuladen.
@@ -57,6 +59,16 @@ Entsorgungskalender_Pfullingen_<BEZIRK>_<JAHR>_<FREQ>.ics
 Beispiele:
 - Entsorgungskalender_Pfullingen_IVa_2025_2w.ics  (2‑wöchiger Restmüll)
 - Entsorgungskalender_Pfullingen_IVa_2025_4w.ics  (4‑wöchiger Restmüll)
+
+## Kalender-Generator
+
+Es gibt eine zusätzliche Seite `generator.html`, mit der du eigene Kalender interaktiv erzeugen kannst (Kalender anlegen, Kategorien definieren, Sondertermine pflegen und als `.ics` herunterladen): https://pwhty.github.io/entsorgungskalender_pfullingen/generator.html
+
+Zum lokalen Testen:
+```bash
+python3 -m http.server 8000
+# dann http://localhost:8000/generator.html
+```
 
 ## 🗂️ Projektstruktur
 
