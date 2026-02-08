@@ -71,13 +71,14 @@ python3 -m http.server 8000
 ```
 
 ## 🗂️ Projektstruktur
-
+```text
 /
 ├─ index.html        # Web-Oberfläche
 ├─ app.js            # Logik
 ├─ lookup.json       # Straße → Bezirk
 ├─ kalender/         # .ics-Dateien
 └─ README.md
+```
 
 ## 🚫 Haftungsausschluss
 
