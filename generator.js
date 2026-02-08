@@ -35,14 +35,15 @@ function renderCalList(){
   }
   calendars.forEach((c, idx) =>{
     const div = document.createElement('div');
-    div.className = 'group p-3 border border-gray-200 rounded-lg hover:bg-indigo-50 hover:border-indigo-300 cursor-pointer transition-all flex items-center justify-between';
+    div.className = 'group p-3 border border-gray-200 rounded-lg hover:bg-indigo-50 hover:border-indigo-300 cursor-pointer transition-all flex items-center gap-2';
     const nameSpan = document.createElement('span');
     nameSpan.textContent = c.name || `Kalender ${idx+1}`;
-    nameSpan.className = 'font-medium text-gray-700 group-hover:text-indigo-700 flex-1';
+    nameSpan.className = 'font-medium text-gray-700 group-hover:text-indigo-700 flex-1 truncate min-w-0';
+    nameSpan.title = c.name || `Kalender ${idx+1}`;
     div.appendChild(nameSpan);
     div.onclick = ()=> openEditor(idx);
     const actionsDiv = document.createElement('div');
-    actionsDiv.className = 'flex items-center gap-1';
+    actionsDiv.className = 'flex items-center gap-1 flex-shrink-0';
     const dl = document.createElement('a');
     dl.href = '#';
     dl.innerHTML = '<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>';
@@ -162,13 +163,14 @@ function renderCategories(){
     // add special input row
     const controls = document.createElement('div');
     controls.className = 'flex flex-wrap gap-2 items-center mb-3 bg-white p-3 rounded-lg border border-gray-300';
+    
     const dateInput = document.createElement('input'); 
     dateInput.type='date'; 
     dateInput.id = `specialDate-${ci}`;
     dateInput.className = 'px-3 py-2 border border-gray-300 rounded-lg focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 outline-none';
     const addBtn = document.createElement('button'); 
-    addBtn.textContent='Hinzufügen';
-    addBtn.className = 'bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 font-medium transition-colors';
+    addBtn.textContent='Sondertermin hinzufügen';
+    addBtn.className = 'bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 font-medium transition-colors ml-auto';
     addBtn.onclick = ()=>{
       const d = dateInput.value; const r = replaceChk.checked;
       if(!d) return alert('Datum auswählen');
@@ -183,10 +185,53 @@ function renderCategories(){
     replaceLabel.innerText='Nachbartermin ersetzen'; 
     replaceLabel.htmlFor = replaceChk.id;
     replaceLabel.className = 'text-sm text-gray-600 cursor-pointer';
+    
+    // Info-Button neben der Checkbox
+    const infoBtn = document.createElement('button');
+    infoBtn.type = 'button';
+    infoBtn.className = 'text-blue-500 hover:text-blue-700 transition-colors';
+    infoBtn.innerHTML = `<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+      <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+    </svg>`;
+    infoBtn.title = 'Info anzeigen';
+    
+    // Info-Box (versteckt)
+    const infoBox = document.createElement('div');
+    infoBox.id = `infoBox-${ci}`;
+    infoBox.className = 'hidden w-full bg-blue-50 border-l-4 border-blue-400 p-3 rounded mt-2 text-sm';
+    infoBox.innerHTML = `
+      <div class="flex items-start gap-2">
+        <svg class="w-5 h-5 text-blue-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+          <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+        </svg>
+        <div class="text-blue-800">
+          <strong>Nachbartermin ersetzen:</strong> Wenn Sie einen Sondertermin anlegen (z.B. weil die Abholung verschoben wurde), 
+          können Sie mit diesem Haken den ursprünglichen Termin aus der regulären Serie entfernen und durch den neuen Termin ersetzen. 
+          So erscheint nur der verschobene Termin im Kalender, nicht beide.
+          <br><br>
+          <strong>Beispiel:</strong> Die Restmüll-Abholung findet normalerweise jeden Montag statt. Aufgrund eines Feiertags wird die Abholung von Montag, 01.06. auf Dienstag, 02.06. verschoben. 
+          Wenn Sie den Haken setzen, wird der Montag-Termin automatisch entfernt und nur der Dienstag-Termin angezeigt.
+        </div>
+      </div>
+    `;
+    
+    // Toggle Info-Box beim Klick auf Info-Button
+    infoBtn.onclick = (e) => {
+      e.preventDefault();
+      const box = document.getElementById(`infoBox-${ci}`);
+      if(box.classList.contains('hidden')) {
+        box.classList.remove('hidden');
+      } else {
+        box.classList.add('hidden');
+      }
+    };
+    
     controls.appendChild(dateInput);
-    controls.appendChild(addBtn);
     controls.appendChild(replaceChk);
     controls.appendChild(replaceLabel);
+    controls.appendChild(infoBtn);
+    controls.appendChild(addBtn);
+    controls.appendChild(infoBox);
     wrapper.appendChild(controls);
 
     const btnContainer = document.createElement('div');
