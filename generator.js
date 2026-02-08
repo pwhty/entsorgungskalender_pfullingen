@@ -205,12 +205,12 @@ function renderCategories(){
           <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
         </svg>
         <div class="text-blue-800">
-          <strong>Nachbartermin ersetzen:</strong> Wenn Sie einen Sondertermin anlegen (z.B. weil die Abholung verschoben wurde), 
-          können Sie mit diesem Haken den ursprünglichen Termin aus der regulären Serie entfernen und durch den neuen Termin ersetzen. 
+          <strong>Nachbartermin ersetzen:</strong> Wenn du einen Sondertermin anlegst (z.B. weil die Abholung verschoben wurde), 
+          kannst du mit diesem Haken den ursprünglichen Termin aus der regulären Serie entfernen und durch den neuen Termin ersetzen. 
           So erscheint nur der verschobene Termin im Kalender, nicht beide.
           <br><br>
           <strong>Beispiel:</strong> Die Restmüll-Abholung findet normalerweise jeden Montag statt. Aufgrund eines Feiertags wird die Abholung von Montag, 01.06. auf Dienstag, 02.06. verschoben. 
-          Wenn Sie den Haken setzen, wird der Montag-Termin automatisch entfernt und nur der Dienstag-Termin angezeigt.
+          Wenn du den Haken setzt, wird der Montag-Termin automatisch entfernt und nur der Dienstag-Termin angezeigt.
         </div>
       </div>
     `;
