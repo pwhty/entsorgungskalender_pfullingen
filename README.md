@@ -2,23 +2,31 @@ TL;DR: Wer schnell an die .ics-Dateien kommen will: https://pwhty.github.io/ents
 
 # Entsorgungskalender Pfullingen
 
-Diese kleine Web-App ermöglicht es, den passenden **Entsorgungskalender (ICS)** für eine Straße in Pfullingen auszuwählen und direkt herunterzuladen.
+Diese Web-App ermöglicht es, den passenden **Entsorgungskalender (ICS)** für eine Straße in Pfullingen auszuwählen und direkt herunterzuladen. Zusätzlich gibt es einen interaktiven Generator zum Erstellen eigener Kalender.
 
-👉 Die Anwendung läuft vollständig im Browser und benötigt **keine Installation**.
+✨ **Modernes Design** mit Tailwind CSS  
+🚀 **Vollständig im Browser** – keine Installation nötig  
+📱 **Responsive** – funktioniert auf Desktop, Tablet und Smartphone
 
 ---
 
 ## 🔍 Funktionsweise
 
-1. Straße eingeben  
-2. Jahr auswählen  
-3. Die App ermittelt anhand einer Lookup-Tabelle den zuständigen **Bezirk**
-4. Der passende **Kalender (.ics)** wird zum Download angeboten
+### Straßensuche (index.html)
+
+1. **Straße eingeben** – mit Autocomplete-Unterstützung
+2. **Jahr auswählen** – Standard ist das aktuelle Jahr
+3. **Abholfrequenz wählen** – 2-wöchig oder 4-wöchig
+4. Die App ermittelt anhand einer Lookup-Tabelle den zuständigen **Bezirk**
+5. **Automatische Validierung** – prüft, ob die Kalenderdatei existiert
+6. Der passende **Kalender (.ics)** wird zum Download angeboten
 
 Die Kalenderdatei kann anschließend z. B. in:
 - Apple Kalender
 - Google Kalender
 - Outlook  
+- Home Assistant
+
 importiert werden.
 
 ---
@@ -60,25 +68,54 @@ Beispiele:
 - Entsorgungskalender_Pfullingen_IVa_2025_2w.ics  (2‑wöchiger Restmüll)
 - Entsorgungskalender_Pfullingen_IVa_2025_4w.ics  (4‑wöchiger Restmüll)
 
-## Kalender-Generator
+## 🎨 Kalender-Generator
 
-Es gibt eine zusätzliche Seite `generator.html`, mit der du eigene Kalender interaktiv erzeugen kannst (Kalender anlegen, Kategorien definieren, Sondertermine pflegen und als `.ics` herunterladen): https://pwhty.github.io/entsorgungskalender_pfullingen/generator.html
+Zusätzlich zur Straßensuche gibt es einen **interaktiven Kalender-Generator** unter `generator.html`, mit dem du:
 
-Zum lokalen Testen:
+- ✨ Eigene Kalender von Grund auf erstellen kannst
+- 📋 Mehrere Kategorien verwalten kannst (z.B. Restmüll, Gelber Sack, Papier)
+- 🔄 Wiederholende Termine definieren kannst (wöchentlich, 2-wöchig, 4-wöchig, etc.)
+- 📅 Sondertermine hinzufügen kannst (z.B. für verschobene Abholungen an Feiertagen)
+- 💾 Kalender als .ics exportieren und importieren kannst
+- 🔁 Automatisch Termine berechnen lässt
+
+**Live-Demo**: https://pwhty.github.io/entsorgungskalender_pfullingen/generator.html
+
+### Features des Generators
+- **Modern & Responsive**: Modernes UI mit Tailwind CSS
+- **LocalStorage**: Daten bleiben im Browser gespeichert
+- **Duplizieren**: Kalender als Vorlage kopieren
+- **Sondertermine mit Ersetzung**: Feiertags-Verschiebungen automatisch handhaben
+- **Export/Import**: JSON-Export für Backup und Weitergabe
+
+### Lokales Testen
 ```bash
+# Python 3
 python3 -m http.server 8000
-# dann http://localhost:8000/generator.html
+
+# Dann im Browser öffnen:
+# http://localhost:8000/index.html
+# http://localhost:8000/generator.html
 ```
 
 ## 🗂️ Projektstruktur
 ```text
 /
-├─ index.html        # Web-Oberfläche
-├─ app.js            # Logik
-├─ lookup.json       # Straße → Bezirk
-├─ kalender/         # .ics-Dateien
+├─ index.html        # Hauptseite: Straßensuche & Kalenderfinder
+├─ app.js            # JavaScript für index.html
+├─ generator.html    # Kalender-Generator (interaktive Erstellung)
+├─ generator.js      # JavaScript für generator.html
+├─ lookup.json       # Straße → Bezirk Mapping
+├─ kalender/         # Verzeichnis mit .ics-Dateien
+├─ LICENSE
 └─ README.md
 ```
+
+### Technologie-Stack
+- **Frontend**: Vanilla JavaScript + Tailwind CSS (via CDN)
+- **Datenhaltung**: LocalStorage (Generator), JSON
+- **Kalenderformat**: iCalendar (.ics)
+- **Hosting**: GitHub Pages
 
 ## 🚫 Haftungsausschluss
 
